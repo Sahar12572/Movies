@@ -1,0 +1,68 @@
+body {
+  background-color: black;
+  color: green;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+header {
+  padding: 20px;
+}
+
+center {
+  display: block;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul {
+  list-style-type: none; /* Remove default bullet points */
+  padding: 0;
+}
+nav ul li {
+  margin-bottom: 10px; /* Add spacing between list items */
+}
+
+.lightblue {
+  color: rgb(77, 211, 144);
+}
+
+.green {
+  color: rgb(77, 211, 144);
+}
+
+.green-friendly {
+  color: green;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  padding: 10px;
+  text-align: center;
+  background-color: rgb(38, 121, 35);
+  color: #fff;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.green-text {
+  color: rgb(77, 211, 144);
+}
+.container {
+  width: 80%; 
+  max-width: 1200px; 
+  margin: 0 auto; 
+  padding: 20px; 
+  background-color: #000000;
+}
+
